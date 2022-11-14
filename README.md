@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+##About me
+My name is Alexandra. I'm a junior Software Developer.
+
+<br/> 
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,kotlin,swift,figma&theme=light)](https://skills.thijs.gg)
+
+![Profile views counter](https://komarev.com/ghpvc/?username=SashaWouse&&style=flat-square)
+
 <!--
 **SashaWouse/SashaWouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
