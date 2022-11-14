@@ -2,7 +2,6 @@
 
 ## About me
 #### My name is Alexandra. I'm a junior Software Developer.
-
 <br/> 
 
 ## Some Tools I Have Used and Learned
