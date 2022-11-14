@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-##About me
+## About me
 My name is Alexandra. I'm a junior Software Developer.
 
 <br/> 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,kotlin,swift,figma&theme=light)](https://skills.thijs.gg)
+## Some Tools I Have Used and Learned
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,kotlin,swift,flutter,figma&theme=light)](https://skills.thijs.gg)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=SashaWouse&&style=flat-square)
 
