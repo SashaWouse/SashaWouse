@@ -8,7 +8,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,kotlin,swift,flutter,figma&theme=light)](https://skills.thijs.gg)
 
-![Profile views counter](https://komarev.com/ghpvc/?username=SashaWouse&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=SashaWouse&&style=flat&color=brightgreen)
 
 <br/>
 
