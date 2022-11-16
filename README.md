@@ -1,8 +1,9 @@
 <!-- [![MasterHead]()](https://sashawouse.io) -->
 ## Hi there <img alt="hello" width="30" src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/Hi.gif" />
-<!-- <img alt="hello" width="400" align="right" src="src/DeveloperGif.gif" /> -->
 
-#### My name is Alexandra. I'm a junior Software Developer. <br/> I'm currently studying Information and Communication Technology at Metropolia University of Applied Sciences.
+<p align="left"> <b> My name is Alexandra. I'm a junior Software Developer. <br/> I'm currently studying Information and Communication Technology at Metropolia University of Applied Sciences.</b> </p>
+
+<!-- <img alt="dev.gif" width="400" align="right" src="src/DeveloperGif.gif" /> -->
 
 ### Some Tools I Have Used and Learned 🧑‍💻
 
