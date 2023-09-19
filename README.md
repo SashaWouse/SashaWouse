@@ -1,7 +1,7 @@
 <!-- [![MasterHead]()](https://sashawouse.io) -->
 ## Hi there <img alt="hello" width="30" src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/Hi.gif" />
  
- <p align="left" > <b> My name is Alexandra. I'm a junior Software Developer. <br/> I'm currently studying Information and Communication Technology at Metropolia University of Applied Sciences. <br clear="left"/> </b> </p>
+ <p align="left" > <b> My name is Alexandra. I'm a junior Web & Mobile Developer. <br/> I'm currently studying Information and Communication Technology at Metropolia University of Applied Sciences. <br clear="left"/> </b> </p>
  <img alt="dev.gif" width="460" align="center" src="https://user-images.githubusercontent.com/43030856/202234618-e47d4d28-39de-41bb-8bef-f22b5e8e3446.gif" />
 
 <!--  <p align="left"> <b> My name is Alexandra. I'm a junior Software Developer. <br/> I'm currently studying Information and Communication Technology at Metropolia University of Applied Sciences.</b> </p> -->
