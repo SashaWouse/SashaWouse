@@ -9,9 +9,7 @@
 
 <h3 align="left"> Some Tools I Have Used and Learned 🧑‍💻 </h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,flutter,java,kotlin,androidstudio,swift,python,flask,cs,firebase,gcp,mysql,nodejs,postman" />
-    <img src="https://skillicons.dev/icons?i=html,css,react,pug,bootstrap,tailwind,vscode,wordpress,github,git,photoshop,illustrator,xd" />
-    <img src="https://skillicons.dev/icons?i=figma,blender,unity,linux" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,flutter,java,kotlin,androidstudio,swift,python,flask,cs,firebase,gcp,mysql,nodejs,postman,html,css,react,pug,bootstrap,tailwind,vscode,wordpress,github,git,photoshop,illustrator,xd,figma,blender,unity,linux" />
 </div>
 
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,kotlin,swift,flutter,androidstudio,react,nodejs,pug,cs,github,gitlab,git,linux,mysql,sqlite,unity,wordpress,ai,ps,xd,ae,blender,figma&theme=light)](https://skills.thijs.gg) -->
