@@ -16,7 +16,7 @@
 
 <br/> <br/>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=SashaWouse&&label=My+profile+views&&style=flat&color=brightgreen)
+![Profile views counter](https://komarev.com/ghpvc/?SashaWouse=SashaWouse&&label=My+profile+views&&style=flat&color=brightgreen)
 
 <br/>
 
