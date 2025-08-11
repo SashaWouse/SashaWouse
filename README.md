@@ -1,7 +1,7 @@
 <!-- [![MasterHead]()](https://sashawouse.io) -->
 ### Hi there <img alt="hello" width="40" src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/Hi.gif"/>
 
- <p align="left" > <b> My name is Alexandra. I'm a junior Web & Mobile Developer with a B.Sc. in ICT. I love turning ideas into fast, accessible apps. <br clear="left"/> </b> </p>
+ <p align="left" > <b> My name is Alexandra. I'm a junior Web & Mobile Developer with a B.Sc. in ICT. <br/> I love turning ideas into fast, accessible apps. <br clear="left"/> </b> </p>
  <img alt="dev.gif" width="460" align="center" src="https://user-images.githubusercontent.com/43030856/202234618-e47d4d28-39de-41bb-8bef-f22b5e8e3446.gif" />
 
 <!--  <p align="left"> <b> My name is Alexandra. I'm a junior Software Developer. <br/> I'm currently studying Information and Communication Technology at Metropolia University of Applied Sciences.</b> </p> -->
@@ -27,6 +27,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashaWouse&layout=compact&theme=vue" />
 </a> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SashaWouse=anuraghazra&show_icons=true&theme=radical)
 
 <!-- ### Get in touch with me at!
 <a href="mailto:snowpill@hotmail.fi">
