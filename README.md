@@ -28,7 +28,7 @@
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashaWouse&layout=compact&theme=vue" />
 </a> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SashaWouse=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashaWouse)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Get in touch with me at!
 <a href="mailto:snowpill@hotmail.fi">
