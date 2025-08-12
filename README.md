@@ -28,8 +28,6 @@
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashaWouse&layout=compact&theme=vue" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaWouse&langs_count=8)
-
 <!-- ### Get in touch with me at!
 <a href="mailto:snowpill@hotmail.fi">
    <img src="" />
